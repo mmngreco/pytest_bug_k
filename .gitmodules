@@ -1,0 +1,3 @@
+[submodule "tests/submodule"]
+	path = tests/submodule
+	url = ../pytest_submodule
